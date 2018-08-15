@@ -1,0 +1,13 @@
+com\candid\config\SpringConfiguration.class
+com\candid\dao\StudentDaoImpl.class
+com\candid\services\StudentService.class
+com\candid\services\StudentServiceImpl.class
+com\candid\entity\Login.class
+com\candid\dao\StudentDao.class
+com\candid\entity\Address.class
+com\candid\entity\Phone.class
+com\candid\controllers\StudentController.class
+com\candid\config\AppInitializer.class
+com\candid\controllers\StudentRestController.class
+com\candid\entity\Course.class
+com\candid\entity\Student.class
